@@ -1,0 +1,1402 @@
+[
+    {
+        "id": "04a2700f-b444-4b71-a956-33186e665b3e",
+        "image": "04a2700f-b444-4b71-a956-33186e665b3e.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Portray the image with a rich, descriptive narrative\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The cecum, a prominent anatomical landmark in the lower GI tract, is displayed in this image."
+            }
+        ]
+    },
+    {
+        "id": "15a0eaec-36af-4711-bab0-7bf62b304124",
+        "image": "15a0eaec-36af-4711-bab0-7bf62b304124.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Offer a succinct explanation of the picture presented.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "In the lower GI tract, the cecum serves as an anatomical landmark, shown in this image."
+            }
+        ]
+    },
+    {
+        "id": "8ff8dbbb-59af-46ef-9c81-527afa572587",
+        "image": "8ff8dbbb-59af-46ef-9c81-527afa572587.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Create a compact narrative representing the image presented.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Shown in this image is the cecum, a critical anatomical landmark in the lower GI tract."
+            }
+        ]
+    },
+    {
+        "id": "c5bb0f86-7b07-456b-aee8-e283f499c023",
+        "image": "c5bb0f86-7b07-456b-aee8-e283f499c023.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Summarize the visual content of the image.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "In the lower GI tract, the cecum serves as an anatomical landmark, shown in this image."
+            }
+        ]
+    },
+    {
+        "id": "ea1c62c7-0f2c-4a9f-992e-855896716c03",
+        "image": "ea1c62c7-0f2c-4a9f-992e-855896716c03.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Render a clear and concise summary of the photo.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This image shows the cecum, a key anatomical landmark located in the lower GI tract."
+            }
+        ]
+    },
+    {
+        "id": "f1ed195d-2b6a-4831-9ded-f138ff9f3e63",
+        "image": "f1ed195d-2b6a-4831-9ded-f138ff9f3e63.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Examine the image closely and share its details\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Displayed in the lower GI tract, the cecum stands out as an anatomical landmark in this image."
+            }
+        ]
+    },
+    {
+        "id": "f98eabc1-ba7f-4a9c-b152-434a91e66d1a",
+        "image": "f98eabc1-ba7f-4a9c-b152-434a91e66d1a.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Describe the image concisely.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "An anatomical landmark of the lower GI tract, the cecum is presented in this image."
+            }
+        ]
+    },
+    {
+        "id": "4de4e858-1301-4a65-971f-6076d291b530",
+        "image": "4de4e858-1301-4a65-971f-6076d291b530.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Summarize the visual content of the image.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This image shows the retroflex rectum, an anatomical landmark in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "a10afdb0-2ea3-4514-bbc7-edac3e4cc201",
+        "image": "a10afdb0-2ea3-4514-bbc7-edac3e4cc201.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Summarize the visual content of the image.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Displayed here is the retroflex rectum, an anatomical landmark located in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "e8bfe689-0716-4446-b1b9-538db186e39f",
+        "image": "e8bfe689-0716-4446-b1b9-538db186e39f.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Give an elaborate explanation of the image you see\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This image shows the retroflex rectum, an anatomical landmark in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "003883b8-e23a-4bf8-a4b9-5f2a30b9e684",
+        "image": "003883b8-e23a-4bf8-a4b9-5f2a30b9e684.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Share a comprehensive rundown of the presented image\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Polyps, a pathological finding in the lower GI tract, are shown in this image"
+            }
+        ]
+    },
+    {
+        "id": "0b556d02-f9ca-4270-b568-3200335c7d08",
+        "image": "0b556d02-f9ca-4270-b568-3200335c7d08.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Offer a succinct explanation of the picture presented.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This image shows polyps, a pathological finding in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "0d98339f-ad6c-4f21-8eab-08b487fcab25",
+        "image": "0d98339f-ad6c-4f21-8eab-08b487fcab25.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Give an elaborate explanation of the image you see\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Here, polyps are highlighted as a pathological finding within the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "28c06ab1-bbe2-475c-89a3-7d62e36163c8",
+        "image": "28c06ab1-bbe2-475c-89a3-7d62e36163c8.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Present a compact description of the photo\u2019s key features.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Here, polyps are highlighted as a pathological finding within the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "35ee981e-d0c0-48e4-8250-073b5dc934e0",
+        "image": "35ee981e-d0c0-48e4-8250-073b5dc934e0.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Write a terse but informative summary of the picture.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "In this image, polyps are identified as a pathological finding in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "4b3bb1c4-6740-41d3-a3f8-9c5db26e8b5f",
+        "image": "4b3bb1c4-6740-41d3-a3f8-9c5db26e8b5f.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Give an elaborate explanation of the image you see\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This image illustrates polyps as a significant pathological finding in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "5bbcb79e-e08f-4923-9ec9-4a8e80c1d806",
+        "image": "5bbcb79e-e08f-4923-9ec9-4a8e80c1d806.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Provide a brief description of the given image.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This image illustrates polyps as a significant pathological finding in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "ceb2ff74-bb58-4a41-8522-996a59a33e1a",
+        "image": "ceb2ff74-bb58-4a41-8522-996a59a33e1a.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Describe the image concisely.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Highlighted in this image are polyps, which are a pathological finding in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "e84d8404-b3d7-40c6-837b-27e01e553d48",
+        "image": "e84d8404-b3d7-40c6-837b-27e01e553d48.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Explain the various aspects of the image before you\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Displayed here are polyps, which represent a pathological finding in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "ef320d94-3ab8-4593-8d66-4c7767c164fa",
+        "image": "ef320d94-3ab8-4593-8d66-4c7767c164fa.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Provide a brief description of the given image.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Displayed here are polyps, which represent a pathological finding in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "f67e23fb-7c59-458d-9b96-da0092923bc2",
+        "image": "f67e23fb-7c59-458d-9b96-da0092923bc2.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Analyze the image in a comprehensive and detailed manner\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Displayed here are polyps, which represent a pathological finding in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "f93bbf16-9eaf-43e3-83ca-e4eea68995ca",
+        "image": "f93bbf16-9eaf-43e3-83ca-e4eea68995ca.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Describe the following image in detail\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "An example of polyps, a pathological finding in the lower GI tract, is presented in this image"
+            }
+        ]
+    },
+    {
+        "id": "23abda28-528a-4ae3-8957-d0e929c5e63f",
+        "image": "23abda28-528a-4ae3-8957-d0e929c5e63f.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Provide a brief description of the given image.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "In this image, ulcerative colitis grade 1 is identified as a pathological finding in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "f127911d-918f-42bd-9c28-37cfeeaed56e",
+        "image": "f127911d-918f-42bd-9c28-37cfeeaed56e.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Create a compact narrative representing the image presented.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Here, ulcerative colitis grade 1 is highlighted as a pathological finding within the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "05210a53-25da-43e5-aa32-08fd1cdfe36f",
+        "image": "05210a53-25da-43e5-aa32-08fd1cdfe36f.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Clarify the contents of the displayed image with great detail\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Displayed here is ulcerative colitis grade 2, a pathological finding in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "2b8b1529-577f-47c5-928c-e3511a120421",
+        "image": "2b8b1529-577f-47c5-928c-e3511a120421.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Give a short and clear explanation of the subsequent image.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Ulcerative colitis grade 2 is shown in this image as a pathological finding in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "4a64ccfb-3f9d-4bd3-a736-2115e9ec6c3a",
+        "image": "4a64ccfb-3f9d-4bd3-a736-2115e9ec6c3a.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Narrate the contents of the image with precision\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This image captures ulcerative colitis grade 2, a pathological finding in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "705d9798-b3cf-498f-baa9-221e545ac3e5",
+        "image": "705d9798-b3cf-498f-baa9-221e545ac3e5.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Summarize the visual content of the image.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "In this image, ulcerative colitis grade 2 is identified as a pathological finding in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "8b4a56b2-8abd-47a9-9aa0-6499dec97b5e",
+        "image": "8b4a56b2-8abd-47a9-9aa0-6499dec97b5e.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Illustrate the image through a descriptive explanation\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "An image depicting ulcerative colitis grade 2, a pathological finding located in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "9f017632-0b3c-4694-bcd7-86b9fdddb255",
+        "image": "9f017632-0b3c-4694-bcd7-86b9fdddb255.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Summarize the visual content of the image.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Ulcerative colitis grade 2, a pathological finding in the lower GI tract, is shown in this image"
+            }
+        ]
+    },
+    {
+        "id": "b9c46a77-3e0c-4c68-8f35-f39b9febd55c",
+        "image": "b9c46a77-3e0c-4c68-8f35-f39b9febd55c.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Relay a brief, clear account of the picture shown.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This image highlights ulcerative colitis grade 2, a pathological finding of the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "005d713e-b761-4c4e-b1f2-c8f3cd2f86e5",
+        "image": "005d713e-b761-4c4e-b1f2-c8f3cd2f86e5.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Give a short and clear explanation of the subsequent image.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Displayed in this image is grade 3 ulcerative colitis, categorized as a pathological finding in the lower GI tract."
+            }
+        ]
+    },
+    {
+        "id": "3af9d046-3ab6-474e-964f-5eadab1575ac",
+        "image": "3af9d046-3ab6-474e-964f-5eadab1575ac.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Narrate the contents of the image with precision\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "In this lower GI tract image, the quality of mucosal views is rated between 0 and 1 on the Boston Bowel Preparation Scale (BBPS)"
+            }
+        ]
+    },
+    {
+        "id": "3cd1a1c2-40b2-4fa9-8de6-f3551623695b",
+        "image": "3cd1a1c2-40b2-4fa9-8de6-f3551623695b.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Write an exhaustive depiction of the given image\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The Boston Bowel Preparation Scale (BBPS) score between 0 and 1 is used in this image to evaluate the quality of mucosal views in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "2214148e-b67b-4a8a-baee-ced6c4700030",
+        "image": "2214148e-b67b-4a8a-baee-ced6c4700030.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Write a terse but informative summary of the picture.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This depiction shows the lower GI tract where the quality of mucosal views is assessed on the Boston Bowel Preparation Scale (BBPS) with a score between 2 and 3"
+            }
+        ]
+    },
+    {
+        "id": "4dc01627-a5c2-4535-a0df-45a8c17390d7",
+        "image": "4dc01627-a5c2-4535-a0df-45a8c17390d7.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Write a terse but informative summary of the picture.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "In the lower GI tract image shown here, mucosal views quality is rated between 2 and 3 on the Boston Bowel Preparation Scale (BBPS)"
+            }
+        ]
+    },
+    {
+        "id": "5305fd0d-749f-4ad8-8da2-725b7ade6eaa",
+        "image": "5305fd0d-749f-4ad8-8da2-725b7ade6eaa.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Break down the elements of the image in a detailed manner\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Presented here is the lower GI tract with the quality of mucosal views measured by the Boston Bowel Preparation Scale (BBPS) between 2 and 3"
+            }
+        ]
+    },
+    {
+        "id": "6c2280f8-368f-439e-ac39-8592415c6e5d",
+        "image": "6c2280f8-368f-439e-ac39-8592415c6e5d.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Break down the elements of the image in a detailed manner\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This lower GI tract is depicted with quality of mucosal views scored between 2 and 3 on the Boston Bowel Preparation Scale (BBPS)"
+            }
+        ]
+    },
+    {
+        "id": "f62b3f17-11b4-4b2d-aa8d-0930aa19e847",
+        "image": "f62b3f17-11b4-4b2d-aa8d-0930aa19e847.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Provide a detailed description of the given image\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Presented here is the lower GI tract with the quality of mucosal views measured by the Boston Bowel Preparation Scale (BBPS) between 2 and 3"
+            }
+        ]
+    },
+    {
+        "id": "fb713ddf-b5b8-47f3-b3a7-83e99ddff7f9",
+        "image": "fb713ddf-b5b8-47f3-b3a7-83e99ddff7f9.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Offer a thorough analysis of the image\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The Boston Bowel Preparation Scale (BBPS) score between 2 and 3 is used in this image to evaluate the quality of mucosal views in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "202f55f1-77b7-42be-a47c-f68cc227adee",
+        "image": "202f55f1-77b7-42be-a47c-f68cc227adee.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Offer a succinct explanation of the picture presented.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Here, an image of the lower GI tract shows the quality of mucosal views compromised due to impacted stool"
+            }
+        ]
+    },
+    {
+        "id": "08447b5d-8b3e-4a19-9853-41c03edcb7c8",
+        "image": "08447b5d-8b3e-4a19-9853-41c03edcb7c8.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Break down the elements of the image in a detailed manner\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Dyed lifted polyps are shown in this image as a therapeutic intervention in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "0e68c156-d6a4-4514-a8d5-0897c401ddd0",
+        "image": "0e68c156-d6a4-4514-a8d5-0897c401ddd0.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Characterize the image using a well-detailed description\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Displayed here are dyed lifted polyps, which represent a therapeutic intervention in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "3cac8a92-3f01-42af-becb-507c0a62b3db",
+        "image": "3cac8a92-3f01-42af-becb-507c0a62b3db.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Create a compact narrative representing the image presented.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Here, dyed lifted polyps are depicted as an effective therapeutic intervention in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "40428aae-b439-4add-9d59-7b1552421783",
+        "image": "40428aae-b439-4add-9d59-7b1552421783.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Clarify the contents of the displayed image with great detail\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Dyed lifted polyps are shown in this image as a therapeutic intervention in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "5e610ae9-363b-4050-8c02-b268c48cb4b3",
+        "image": "5e610ae9-363b-4050-8c02-b268c48cb4b3.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Render a clear and concise summary of the photo.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This image illustrates dyed lifted polyps used as a therapeutic intervention in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "89227d9b-891f-4426-946d-15768731ec35",
+        "image": "89227d9b-891f-4426-946d-15768731ec35.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Write a terse but informative summary of the picture.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Here, dyed lifted polyps are highlighted as a therapeutic intervention within the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "d7fd150a-6a09-4aac-8566-a83aee5ffff6",
+        "image": "d7fd150a-6a09-4aac-8566-a83aee5ffff6.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Clarify the contents of the displayed image with great detail\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The dyed lifted polyps, seen in this image, represent a therapeutic intervention in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "df0a9953-ee2b-4d84-acd2-77ea772539d0",
+        "image": "df0a9953-ee2b-4d84-acd2-77ea772539d0.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Clarify the contents of the displayed image with great detail\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "In this visual, dyed lifted polyps are presented as a therapeutic intervention in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "f932eabb-8609-43d6-a461-4e2b319ec3a0",
+        "image": "f932eabb-8609-43d6-a461-4e2b319ec3a0.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Summarize the visual content of the image.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This image presents dyed lifted polyps, a therapeutic intervention in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "089dc7a4-f90f-469d-b3e6-884db7b98eec",
+        "image": "089dc7a4-f90f-469d-b3e6-884db7b98eec.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Describe the image concisely.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This illustration shows dyed resection margins, which are a therapeutic intervention in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "2ed36f6b-905d-4ecc-8dff-fedf66b51efe",
+        "image": "2ed36f6b-905d-4ecc-8dff-fedf66b51efe.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Examine the image closely and share its details\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This image shows dyed resection margins, a therapeutic intervention in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "3e6cb818-f91e-43cf-bf69-fa80accf68bd",
+        "image": "3e6cb818-f91e-43cf-bf69-fa80accf68bd.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Write a terse but informative summary of the picture.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The lower GI tract, depicted here, contains dyed resection margins as a therapeutic intervention"
+            }
+        ]
+    },
+    {
+        "id": "4f435a00-12d7-4315-923e-263bd715d686",
+        "image": "4f435a00-12d7-4315-923e-263bd715d686.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Characterize the image using a well-detailed description\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This image shows dyed resection margins, a therapeutic intervention in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "6db7a7ec-3ede-4cad-89a1-9dc88a94dac2",
+        "image": "6db7a7ec-3ede-4cad-89a1-9dc88a94dac2.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Explain the various aspects of the image before you\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This image depicts dyed resection margins, an important therapeutic intervention in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "93cf1947-da46-4f54-b751-034f77f06a04",
+        "image": "93cf1947-da46-4f54-b751-034f77f06a04.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Create a compact narrative representing the image presented.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This image presents dyed resection margins, a therapeutic intervention in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "969a5080-c942-4e07-b888-870611782aa1",
+        "image": "969a5080-c942-4e07-b888-870611782aa1.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Describe the image concisely.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "In this image, dyed resection margins are identified as a therapeutic intervention in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "9ae9314b-b4be-4445-95e1-185d248f98be",
+        "image": "9ae9314b-b4be-4445-95e1-185d248f98be.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Walk through the important details of the image\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This illustration shows dyed resection margins, which are a therapeutic intervention in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "c42a2d40-9e07-4e5a-ad6b-f15b8ffd83f4",
+        "image": "c42a2d40-9e07-4e5a-ad6b-f15b8ffd83f4.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Explain the various aspects of the image before you\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This depiction presents dyed resection margins, a therapeutic intervention of the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "f60bd592-4b16-425b-9011-b63821f6a59a",
+        "image": "f60bd592-4b16-425b-9011-b63821f6a59a.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Walk through the important details of the image\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Displayed here are dyed resection margins, representing a therapeutic intervention in the lower GI tract"
+            }
+        ]
+    },
+    {
+        "id": "220eb95c-d8ab-4784-b2e6-0acdc47d1eeb",
+        "image": "220eb95c-d8ab-4784-b2e6-0acdc47d1eeb.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Share a concise interpretation of the image provided.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Presented here is the pylorus, which is recognized as an anatomical landmark in the upper GI tract"
+            }
+        ]
+    },
+    {
+        "id": "35fa0e57-ab63-4ea9-84df-9c049819ba80",
+        "image": "35fa0e57-ab63-4ea9-84df-9c049819ba80.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Share a concise interpretation of the image provided.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The pylorus, an anatomical landmark, is visible in this image of the upper GI tract"
+            }
+        ]
+    },
+    {
+        "id": "6a1f29be-de08-49ba-9b79-1cf169efbc1b",
+        "image": "6a1f29be-de08-49ba-9b79-1cf169efbc1b.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Offer a thorough analysis of the image\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This image shows the pylorus, an anatomical landmark in the upper GI tract"
+            }
+        ]
+    },
+    {
+        "id": "8ee4986f-9d32-4b24-8386-40fcc56068aa",
+        "image": "8ee4986f-9d32-4b24-8386-40fcc56068aa.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Break down the elements of the image in a detailed manner\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The pylorus is shown here as an anatomical landmark of the upper GI tract"
+            }
+        ]
+    },
+    {
+        "id": "95b5a983-3f71-4f0b-9747-9e204c17e76f",
+        "image": "95b5a983-3f71-4f0b-9747-9e204c17e76f.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Describe the image concisely.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The pylorus serves as an anatomical landmark in the upper GI tract, as shown in this image"
+            }
+        ]
+    },
+    {
+        "id": "e6ba373d-181b-416a-82cb-8e25ab4ab2b0",
+        "image": "e6ba373d-181b-416a-82cb-8e25ab4ab2b0.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Describe the following image in detail\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This image illustrates the pylorus as an anatomical landmark found in the upper GI tract"
+            }
+        ]
+    },
+    {
+        "id": "e9052af9-513d-44ad-96bc-7fa44b1f1523",
+        "image": "e9052af9-513d-44ad-96bc-7fa44b1f1523.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Share a comprehensive rundown of the presented image\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This depiction presents the pylorus, an anatomical landmark of the upper GI tract"
+            }
+        ]
+    },
+    {
+        "id": "e99e5a2b-6718-47be-ad1b-ae595b90ac49",
+        "image": "e99e5a2b-6718-47be-ad1b-ae595b90ac49.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Share a concise interpretation of the image provided.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The pylorus serves as an anatomical landmark in the upper GI tract, as shown in this image"
+            }
+        ]
+    },
+    {
+        "id": "256aac1e-d690-4c26-961e-7d802b419e82",
+        "image": "256aac1e-d690-4c26-961e-7d802b419e82.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Share a concise interpretation of the image provided.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This image focuses on the retroflex stomach, an anatomical landmark within the upper GI tract"
+            }
+        ]
+    },
+    {
+        "id": "3ef61959-9759-4730-8b45-5b5ee825895e",
+        "image": "3ef61959-9759-4730-8b45-5b5ee825895e.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Relay a brief, clear account of the picture shown.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "In this image, the retroflex stomach is identified as an anatomical landmark in the upper GI tract"
+            }
+        ]
+    },
+    {
+        "id": "5d654102-dd94-44d0-88c6-1bd59c3b47e4",
+        "image": "5d654102-dd94-44d0-88c6-1bd59c3b47e4.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Examine the image closely and share its details\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Presented here is the retroflex stomach, which is recognized as an anatomical landmark in the upper GI tract"
+            }
+        ]
+    },
+    {
+        "id": "61847b58-9d78-42de-b3f1-5019abf1bc4e",
+        "image": "61847b58-9d78-42de-b3f1-5019abf1bc4e.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Narrate the contents of the image with precision\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This image shows the retroflex stomach, an anatomical landmark in the upper GI tract"
+            }
+        ]
+    },
+    {
+        "id": "6adb6dc8-327e-4403-857d-9a24b0c42895",
+        "image": "6adb6dc8-327e-4403-857d-9a24b0c42895.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Give a short and clear explanation of the subsequent image.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "An anatomical landmark in the upper GI tract, the retroflex stomach is presented in this image"
+            }
+        ]
+    },
+    {
+        "id": "91139f68-bd12-4f17-870b-f7a86aa6a5f8",
+        "image": "91139f68-bd12-4f17-870b-f7a86aa6a5f8.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Describe the following image in detail\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Displayed here is the retroflex stomach, an anatomical landmark in the upper GI tract"
+            }
+        ]
+    },
+    {
+        "id": "d057f33a-98f5-47be-b19b-01e47c78e115",
+        "image": "d057f33a-98f5-47be-b19b-01e47c78e115.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Create a compact narrative representing the image presented.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This image focuses on the retroflex stomach, an anatomical landmark within the upper GI tract"
+            }
+        ]
+    },
+    {
+        "id": "e104bd0a-a6d8-40f2-b2a8-a43be7d1ee49",
+        "image": "e104bd0a-a6d8-40f2-b2a8-a43be7d1ee49.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Offer a succinct explanation of the picture presented.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "In this image, the retroflex stomach is identified as an anatomical landmark in the upper GI tract"
+            }
+        ]
+    },
+    {
+        "id": "ebab03e9-fdcd-4625-a65e-7d708ab0de6e",
+        "image": "ebab03e9-fdcd-4625-a65e-7d708ab0de6e.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Offer a thorough analysis of the image\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This depiction presents the retroflex stomach, an anatomical landmark of the upper GI tract"
+            }
+        ]
+    },
+    {
+        "id": "ed50806d-34b6-4e58-9a5f-2e87ea542432",
+        "image": "ed50806d-34b6-4e58-9a5f-2e87ea542432.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Render a clear and concise summary of the photo.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "In the upper GI tract, the retroflex stomach is highlighted as a significant anatomical landmark in this depiction"
+            }
+        ]
+    },
+    {
+        "id": "12f18bd0-5182-494a-8c26-b46e7be6a1eb",
+        "image": "12f18bd0-5182-494a-8c26-b46e7be6a1eb.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Offer a succinct explanation of the picture presented.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Presented here is the z-line, which is recognized as an anatomical landmark in the upper GI tract"
+            }
+        ]
+    },
+    {
+        "id": "49a0fd92-1179-4536-85c9-bafde35e2914",
+        "image": "49a0fd92-1179-4536-85c9-bafde35e2914.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Offer a succinct explanation of the picture presented.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This image illustrates the z-line as an anatomical landmark found in the upper GI tract"
+            }
+        ]
+    },
+    {
+        "id": "4cc26f8c-a64d-41b4-97f9-6bb297bef780",
+        "image": "4cc26f8c-a64d-41b4-97f9-6bb297bef780.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Give a short and clear explanation of the subsequent image.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This illustration shows the z-line, which serves as an anatomical landmark in the upper GI tract"
+            }
+        ]
+    },
+    {
+        "id": "7a861823-2249-41b3-ae7d-0b91177a2de0",
+        "image": "7a861823-2249-41b3-ae7d-0b91177a2de0.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Relay a brief, clear account of the picture shown.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This visual representation of the upper GI tract features the z-line, an anatomical landmark"
+            }
+        ]
+    },
+    {
+        "id": "902c29c7-bbb1-4759-b510-d48bf90c4dfa",
+        "image": "902c29c7-bbb1-4759-b510-d48bf90c4dfa.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Write an exhaustive depiction of the given image\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This depiction presents the z-line, an anatomical landmark of the upper GI tract"
+            }
+        ]
+    },
+    {
+        "id": "d8539706-2fc0-4995-b7de-e854df7b6064",
+        "image": "d8539706-2fc0-4995-b7de-e854df7b6064.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Clarify the contents of the displayed image with great detail\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "An image showing the upper GI tract highlights the z-line as an anatomical landmark"
+            }
+        ]
+    },
+    {
+        "id": "df366221-7b9d-492b-9b3f-342d76073842",
+        "image": "df366221-7b9d-492b-9b3f-342d76073842.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Offer a thorough analysis of the image\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Here in the upper GI tract, the z-line is marked as an important anatomical landmark"
+            }
+        ]
+    },
+    {
+        "id": "e4974270-79be-457a-9d99-fd7e25198251",
+        "image": "e4974270-79be-457a-9d99-fd7e25198251.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Clarify the contents of the displayed image with great detail\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "An image showing the upper GI tract highlights the z-line as an anatomical landmark"
+            }
+        ]
+    },
+    {
+        "id": "6992d0e4-2c6d-4ede-9bfc-35a895cbe8bb",
+        "image": "6992d0e4-2c6d-4ede-9bfc-35a895cbe8bb.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Narrate the contents of the image with precision\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This is an image of the upper GI tract with esophagitis A as a pathological finding"
+            }
+        ]
+    },
+    {
+        "id": "86f28f60-daba-4508-9795-4fc876ec7826",
+        "image": "86f28f60-daba-4508-9795-4fc876ec7826.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Portray the image with a rich, descriptive narrative\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This image presents esophagitis A, a pathological finding found in the upper GI tract"
+            }
+        ]
+    },
+    {
+        "id": "ca48b92d-d4a1-4aeb-912f-fd32ed21d382",
+        "image": "ca48b92d-d4a1-4aeb-912f-fd32ed21d382.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Summarize the visual content of the image.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "In this image, esophagitis B through D is identified as a pathological finding in the upper GI tract"
+            }
+        ]
+    },
+    {
+        "id": "cju6ur9l9v9jq0755paud9uka",
+        "image": "cju6ur9l9v9jq0755paud9uka.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Where is the polyp located in the given image\n<image>?"
+            },
+            {
+                "from": "gpt",
+                "value": "One polyp is in the top left of the image."
+            }
+        ]
+    },
+    {
+        "id": "cju6v5ilsv8hk0850rb5sgh6o",
+        "image": "cju6v5ilsv8hk0850rb5sgh6o.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Where is the polyp located in the given image\n<image>?"
+            },
+            {
+                "from": "gpt",
+                "value": "One polyp is in the bottom right of the image."
+            }
+        ]
+    },
+    {
+        "id": "cju1fr4etsmrr09933u4t4aql",
+        "image": "cju1fr4etsmrr09933u4t4aql.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Where is the polyp located in the given image\n<image>?"
+            },
+            {
+                "from": "gpt",
+                "value": "One polyp is in the bottom right of the image."
+            }
+        ]
+    },
+    {
+        "id": "cju2hqt33lmra0988fr5ijv8j",
+        "image": "cju2hqt33lmra0988fr5ijv8j.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Where is the polyp located in the given image\n<image>?"
+            },
+            {
+                "from": "gpt",
+                "value": "One polyp is in the bottom right of the image."
+            }
+        ]
+    },
+    {
+        "id": "cju2rzpsmtb0f0835jabkbao1",
+        "image": "cju2rzpsmtb0f0835jabkbao1.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Where is the polyp located in the given image\n<image>?"
+            },
+            {
+                "from": "gpt",
+                "value": "One polyp is in the bottom left of the image."
+            }
+        ]
+    },
+    {
+        "id": "cju2xlcqxy9c60988vjacdznb",
+        "image": "cju2xlcqxy9c60988vjacdznb.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Where is the polyp located in the given image\n<image>?"
+            },
+            {
+                "from": "gpt",
+                "value": "One polyp is in the top right of the image."
+            }
+        ]
+    },
+    {
+        "id": "cju2y5zas8m7f0801d34g5owq",
+        "image": "cju2y5zas8m7f0801d34g5owq.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Where is the polyp located in the given image\n<image>?"
+            },
+            {
+                "from": "gpt",
+                "value": "One polyp is in the top right of the image. One polyp is in the bottom left of the image."
+            }
+        ]
+    },
+    {
+        "id": "cju30xqmh0ni00835ix3batv1",
+        "image": "cju30xqmh0ni00835ix3batv1.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Where is the polyp located in the given image\n<image>?"
+            },
+            {
+                "from": "gpt",
+                "value": "One polyp is in the bottom left of the image."
+            }
+        ]
+    },
+    {
+        "id": "cju3518w2d838079939fqztbc",
+        "image": "cju3518w2d838079939fqztbc.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Where is the polyp located in the given image\n<image>?"
+            },
+            {
+                "from": "gpt",
+                "value": "One polyp is in the bottom right of the image."
+            }
+        ]
+    },
+    {
+        "id": "cju8a2itsq4dv0755ntlovpxe",
+        "image": "cju8a2itsq4dv0755ntlovpxe.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Where is the polyp located in the given image\n<image>?"
+            },
+            {
+                "from": "gpt",
+                "value": "One polyp is in the bottom left of the image."
+            }
+        ]
+    },
+    {
+        "id": "cju8bbznkrf5g0871jncffynk",
+        "image": "cju8bbznkrf5g0871jncffynk.jpg",
+        "conversatons": [
+            {
+                "from": "human",
+                "value": "Where is the polyp located in the given image\n<image>?"
+            },
+            {
+                "from": "gpt",
+                "value": "One polyp is in the bottom left of the image."
+            }
+        ]
+    }
+]

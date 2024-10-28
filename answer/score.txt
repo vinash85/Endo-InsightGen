@@ -1,0 +1,60 @@
+For endoscopy general question:
+Average BLEU score: 0.4547642249627624
+Average METEOR score: 0.6741086584787033
+Average ROUGE-L score: 0.6088686208642001
+Average Cosine Similarity score: 0.8361396407181362
+Average 1-gram BLEU score: 0.635654423945029
+Average 2-gram BLEU score: 0.5070495726281967
+Average 3-gram BLEU score: 0.4288605636097988
+Average 4-gram BLEU score: 0.36555222194560644
+
+For endoscopy finetuning question:
+Average BLEU score: 0.4667041507248886
+Average METEOR score: 0.584721311735034
+Average ROUGE-L score: 0.5856714305469815
+Average Cosine Similarity score: 0.619487852603197
+Average 1-gram BLEU score: 0.5789199700529665
+Average 2-gram BLEU score: 0.4703187658927601
+Average 3-gram BLEU score: 0.4568152882057313
+Average 4-gram BLEU score: 0.4429293998319461
+
+For llava_general:
+Average BLEU score: 0.02468006658242512
+Average METEOR score: 0.2520968371709817
+Average ROUGE-L score: 0.26541674053910125
+Average Cosine Similarity score: 0.4921127827662342
+Average 1-gram BLEU score: 0.18934354366291797
+Average 2-gram BLEU score: 0.06998592939736058
+Average 3-gram BLEU score: 0.012945249268194533
+Average 4-gram BLEU score: 2.225073858507264e-308
+
+For llava_finetuning:
+Average BLEU score: 0.018215395973815728
+Average METEOR score: 0.23097121908119897
+Average ROUGE-L score: 0.1798631589259431
+Average Cosine Similarity score: 0.4571412341161208
+Average 1-gram BLEU score: 0.11054903130310462
+Average 2-gram BLEU score: 0.026343522579726445
+Average 3-gram BLEU score: 0.01000657598424056
+Average 4-gram BLEU score: 0.006326954889664454
+
+LLAVA-MED:GENERAL:
+Average BLEU score: 0.01939967602146743
+Average METEOR score: 0.2575724696227047
+Average ROUGE-L score: 0.2555750238476257
+Average Cosine Similarity score: 0.46285845479875243
+Average 1-gram BLEU score: 0.20978906804097341
+Average 2-gram BLEU score: 0.0654790983738658
+Average 3-gram BLEU score: 2.2122752306671346e-308
+Average 4-gram BLEU score: 2.2122752306671346e-308
+
+LLAVA-MED: FINETUNING
+Average BLEU score: 0.08158872795410792
+Average METEOR score: 0.39279184253823535
+Average ROUGE-L score: 0.323984872850293
+Average Cosine Similarity score: 0.6718598142266273
+Average 1-gram BLEU score: 0.290995945810304
+Average 2-gram BLEU score: 0.10787034231697121
+Average 3-gram BLEU score: 0.059379954601612606
+Average 4-gram BLEU score: 0.03860319472050873
+
